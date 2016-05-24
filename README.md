@@ -1,5 +1,4 @@
 # prerequisites
-***
 Prerequisites package including Fortran 90 based subroutines for different projects.
 The package contains the following subdirectories:
 * prec: selecting precision
