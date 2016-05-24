@@ -10,3 +10,6 @@ The package contains the following subdirectories:
 * optim: optimization procedures
 * fparser: function parser calculating function, first and second derivatives
 * gp_basic: basic gaussian process module
+
+Porgrams/projects using prerequisites:
+* [program_gp_general](https://github.com/molet/program_gp_general) [project_gp_general](https://github.com/molet/project_gp_general)
