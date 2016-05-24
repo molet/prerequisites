@@ -12,4 +12,4 @@ The package contains the following subdirectories:
 * gp_basic: basic gaussian process module
 
 Porgrams/projects using prerequisites:
-* [program_gp_general](https://github.com/molet/program_gp_general) [project_gp_general](https://github.com/molet/project_gp_general)
+* [program_gp_general](https://github.com/molet/program_gp_general) and [project_gp_general](https://github.com/molet/project_gp_general)
